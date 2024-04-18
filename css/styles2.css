@@ -1,0 +1,25 @@
+.homebg{
+    background-image: url('https://www.surgent.net/pix/p/phxarrow1.jpg');
+    background-size: contain;
+}
+.white{
+    color: #ffffff;
+    font-weight: bold;
+}
+.text {
+    color:#ffffff;
+    font-style: italic;
+    font-weight: bolder;
+}
+.title{
+    color:#ffffff;
+    font-size: x-large;
+font-family:'Courier New', Courier, monospace;
+}
+.h6{
+color:#ffffff;
+font-weight: bolder;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration: underline;
+font-size: xx-large;
+}
